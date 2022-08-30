@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "firstname": "Ram",
+      "lastname": "Sita",
+      "age": 25,
+      "id": 121
+    },
+    {
+      "firstname": "Rama Rao",
+      "lastname": "N",
+      "age": 80,
+      "id": 122
+    },
+    {
+      "firstname": "Akhil",
+      "lastname": "Joga",
+      "age": 23,
+      "Gender": "Male",
+      "id": 123
+    },
+    {
+      "firstname": "Akhil",
+      "lastname": "Joga",
+      "age": 23,
+      "Gender": "Male",
+      "id": 124
+    },
+    {
+      "firstname": "Akhil",
+      "lastname": "Joga",
+      "age": 23,
+      "Gender": "Male",
+      "id": 125
+    }
+  ],
+  "empl": [
+    {
+      "firstname": "Cheeranjeevi",
+      "lastname": "K",
+      "age": 60,
+      "id": 161
+    },
+    {
+      "firstname": "Raja Rao",
+      "lastname": "N",
+      "age": 80,
+      "id": 162
+    },
+    {
+      "firstname": "Akhil",
+      "lastname": "Joga",
+      "age": 23,
+      "Gender": "Male",
+      "id": 163
+    },
+    {
+      "firstname": "hello",
+      "lastname": "World",
+      "age": 89,
+      "Gender": "Fe-male",
+      "id": 164
+    }
+  ]
+}
